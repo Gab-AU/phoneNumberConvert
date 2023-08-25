@@ -1,5 +1,5 @@
 # phoneNumberConvert
-Converts phone numbers to something searchable in Colleague.
+Converts phone numbers to something instantly paste-able in two different and somehow relevant forms.
 
 To build from source:
 
@@ -16,3 +16,5 @@ To use as-is:
 
 1. Download phoneNumberConvert.exe
 2. Run it :D
+
+The .py file was made with input from ChatGPT to avoid Googling how to put text into the Windows Clipboard.
